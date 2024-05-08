@@ -7,7 +7,7 @@ This Python script fetches the current temperature of a given city using the Wea
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/gyanendu01/weather-api-temperature-checker.git
+    git clone https://github.com/Gyanendu01/Current-Temperature-Program.git
     ```
 
 2. Install dependencies:
